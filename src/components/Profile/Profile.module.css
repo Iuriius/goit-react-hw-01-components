@@ -27,6 +27,7 @@ body {
 
 .avatar {
     width: 166px;
+    height: 166px;
     border-radius: 50%;
     border-style: solid;
     border-color: lavender;
